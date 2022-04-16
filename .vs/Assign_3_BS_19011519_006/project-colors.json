@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9fb3e4ed-1679-4915-aaf3-22b4c8c31095": {
+      "ProjectGuid": "9fb3e4ed-1679-4915-aaf3-22b4c8c31095",
+      "DisplayName": "Assign_3_BS_19011519_006",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
